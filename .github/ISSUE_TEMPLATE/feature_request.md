@@ -6,15 +6,17 @@ labels: ''
 assignees: ''
 
 ---
+<!--
+Have Questions about how to use Nilearn or need analysis suggestions & recommendations?
+This is NOT the place for it.  
+Post them on Neurostars (http://neurostars.org/). 
+Add the tag `nilearn`  
+-->
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+<!-- 
+Include the following:
+What would you like changed/added and why?
+What would be the benefit? Does the change make something easier to use?
+Clarifies something?
+If it adds something, whats the benefit of this new feature? 
+-->
