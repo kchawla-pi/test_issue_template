@@ -16,7 +16,7 @@ Add the tag `nilearn`
 -->
 
 <!-- 
-Include this information:
+For the bug report, include this information:
 -------------------------
 What version of Nilearn are you using?
 What were you trying to do?
@@ -30,4 +30,5 @@ Like this:
 ```
 <code>
 ``` 
+You can delete all the above text if you wish. 
 -->
